@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is AEE6-0358
+
+ Directory of C:\Users\Sagar\Desktop\Java
+
+15-02-2020  12:27    <DIR>          .
+15-02-2020  12:27    <DIR>          ..
+15-02-2020  12:24               676 hello.class
+15-02-2020  12:21               144 hello.java
+15-02-2020  12:27                 0 index.txt
+               3 File(s)            820 bytes
+               2 Dir(s)  192,156,508,160 bytes free
